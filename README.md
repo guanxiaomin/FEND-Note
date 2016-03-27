@@ -49,3 +49,8 @@ Use ```fetch()``` and ```sync()``` method
     error: function() {console.log('error')}
   });
 ```
+
+### Jasmine
+
+* [Asynchronous Support](https://jasmine.github.io/2.4/introduction.html#section-Asynchronous_Support)
+* [More about ```done()```](https://github.com/jasmine/jasmine/issues/988)
